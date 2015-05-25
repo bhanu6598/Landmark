@@ -1,0 +1,13 @@
+#top { 
+	height:90px; 
+	background-color: #ffffff; 
+	position:relative;
+	padding-bottom:10px;
+	}
+
+.topimage { 
+	height:90px;
+	width:960px;
+	background-color: #ffffff; 
+	position:relative;
+	}
